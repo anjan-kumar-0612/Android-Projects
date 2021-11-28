@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258273463565",
+    "project_id": "friendtalk-9925a",
+    "storage_bucket": "friendtalk-9925a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258273463565:android:81191db09c62e0e29ef444",
+        "android_client_info": {
+          "package_name": "com.example.friendtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258273463565-6c70dhmsrur1ufnv1cobjr3kl0fd1eij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSngltwBC2xQ4i0dgjLZg9qG6vM41RKQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258273463565-6c70dhmsrur1ufnv1cobjr3kl0fd1eij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

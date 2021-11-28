@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.friendtalk">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/img_2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/img_2"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Friendtalk">
+        <activity android:name="com.example.friendtalk.specificchat"></activity>
+        <activity android:name="com.example.friendtalk.UpdateProfile" />
+        <activity android:name="com.example.friendtalk.ProfileActivity" />
+        <activity android:name="com.example.friendtalk.chatActivity" />
+        <activity android:name="com.example.friendtalk.setProfile" />
+        <activity android:name="com.example.friendtalk.otpAuthentication" />
+        <activity android:name="com.example.friendtalk.MainActivity" />
+        <activity android:name="com.example.friendtalk.splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
